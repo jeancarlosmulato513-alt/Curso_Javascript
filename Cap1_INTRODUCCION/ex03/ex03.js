@@ -28,4 +28,4 @@ console.log("Descripción:", descripcion);
 
 document.write("Nombre: " + nombre + "<br>", "Cantidad: " + cantidad + "<br>", "Precio: " + precio + "<br>", "Disponible: " + disponible + "<br>", "Descripción: " + descripcion);
 
-console.log("Nombre: " + nombre , "Cantidad: " + cantidad, "Precio: " + precio, "Disponible: " + disponible, "Descripción: " + descripcion);
+console.log("Nombre: ", nombre , "Cantidad: ", cantidad, "Precio: ", precio, "Disponible: ", disponible, "Descripción: ", descripcion);
